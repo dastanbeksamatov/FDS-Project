@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(88): warning C4101: 'a': unreferenced local variable
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(99): warning C4101: 'a': unreferenced local variable
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(109): warning C4101: 'a': unreferenced local variable
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(165): warning C4101: 'a': unreferenced local variable
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(174): warning C4101: 'a': unreferenced local variable
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(183): warning C4101: 'a': unreferenced local variable
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(216): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(220): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(227): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(233): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\dns170\downloads\last_version_assnmt\consoleapplication1\consoleapplication1\consoleapplication1.cpp(316): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\dns170\Downloads\last_version_assnmt\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\dns170\Downloads\last_version_assnmt\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
